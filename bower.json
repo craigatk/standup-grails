@@ -1,0 +1,19 @@
+{
+  "name": "standup-grails",
+  "version": "0.0.1",
+  "homepage": "https://github.com/craigatk/standup-grails",
+  "authors": [
+    "Craig <atk.craig@gmail.com>"
+  ],
+  "license": "Apache",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.5"
+  }
+}

@@ -17,3 +17,10 @@ out/
 # Gradle build files
 .gradle
 build
+
+# Grails files
+.asscache
+
+# NPM directories
+bower_components/
+node_modules/
